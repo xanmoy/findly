@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Install 
 
 In the project directory, you can run:
-'''bash
+
+```bash
  npm i react-router-dom react-player react-loader-spinner use-debounce
 ```
 
