@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Install 
+
+In the project directory, you can run:
+'''bash
+ npm i react-router-dom react-player react-loader-spinner use-debounce
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
